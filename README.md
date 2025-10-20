@@ -1,4 +1,4 @@
-# Product Analytics - Retention Analysis 
+# Product Analytics - Retention Analysis + Feature Suggestion + A/B Test
 
 To see my full analysis, please view the [Technical Report on Notion](https://www.notion.so/Case-Study-21855584eb60804d887fd5181a6fd7b2).
 
