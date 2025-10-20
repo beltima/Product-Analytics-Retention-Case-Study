@@ -1,4 +1,6 @@
-# Case Study: Data Analyst
+# Product Analytics - Retention Analysis 
+
+To see my full analysis, please view the [Technical Report on Notion](https://www.notion.so/Case-Study-21855584eb60804d887fd5181a6fd7b2).
 
 **Guidelines:** Open doc - 2 days
 
@@ -66,8 +68,3 @@ We launched an AB test on new users to tackle the retention issue, here are the 
 * `ads_revenue`: revenues from advertising
 * `sessions`: number of sessions made
 * `meaningful_reactions`: number of meaningful reactions the user had
-
----
-Once finished, you can send back your case to the Talent Acquisition member you are in contact with.
-
-Good luck!
